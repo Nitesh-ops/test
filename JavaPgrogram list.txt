@@ -1,0 +1,5 @@
+Write a program to print the result(percentage) of a student based upon marks in three subjects,if marks 
+are less than 40 the result is fail if marks are 40-60 then result is pass
+60-80 result is first and more than 80 that is merit.
+
+Write a program to print the tables of numbers starting from 1 to 10.
